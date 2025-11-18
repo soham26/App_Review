@@ -19,8 +19,8 @@ A Python application with GUI for analyzing Google Play Store app reviews. Fetch
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/App_review_analysis.git
-cd App_review_analysis
+git clone https://github.com/soham26/App_Review.git
+cd App_Review
 ```
 
 2. Install dependencies:
